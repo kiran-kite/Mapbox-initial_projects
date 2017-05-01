@@ -4,14 +4,14 @@ Complete block mapping
 
 Places Mapped
 
--Principal Cabin__
--Cafeteria_
--Labs
--library
--Rest Rooms
--Stairs
--Class Rooms
+-Principal Cabin <br />
+-Cafeteria <br />
+-Labs <br />
+-library <br />
+-Rest Rooms <br />
+-Stairs <br />
+-Class Rooms <br />
 
-JOSM Screenshot
+# JOSM Screenshot
 
 
