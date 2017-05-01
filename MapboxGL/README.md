@@ -21,7 +21,7 @@ Plays background music that blends with the theme.
 
 # Map page
 
-Shows markers on the map to point out <b>Pub</b> locations.<br />
+Shows markers on the map point to <b>Pub</b> locations.<br />
 
 ![Screenshot](https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/map-page.png)
 
