@@ -30,7 +30,7 @@ Shows markers on the map to point out <b>Pub</b> locations.<br />
 ![Screenshot](https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/map-page.png)
 
 
-Displays a popup on click.<br />
+Displays a popup on click.<br /><br />
 Describes the pub, displays rating and a link which redirects you to the pub website/reservation page.
 
 ![Screenshot](https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/on-pop-up.png)
