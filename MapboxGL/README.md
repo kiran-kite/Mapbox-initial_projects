@@ -14,7 +14,7 @@ Plays background music that blends with the theme.
 
 # Intro page
 
-"Go->" text on click links to map page.
+"Go ->" text on click links to map page.
 
 ![Screenshot](https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/intro-page.png)
 
