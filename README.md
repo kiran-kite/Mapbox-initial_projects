@@ -1,4 +1,4 @@
-# My Mapbox initial projects
+# Mapbox initial projects
 
 # MapboxGL-JS
 Project done using MapboxGL on Web platform HTML-version.
