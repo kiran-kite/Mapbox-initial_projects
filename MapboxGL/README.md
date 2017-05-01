@@ -10,7 +10,7 @@ Tooltips are created using L.mapbox.map('map-tooltips-js', '\<your theme>');
 
 Shows markers on the map that point to <b>Pub</b> locations.<br />
 Displays a popup on click.<br />
-Plays background music, that blend with the theme.
+Plays background music that blends with the theme.
 
 # Intro page
 
