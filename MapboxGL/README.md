@@ -23,7 +23,7 @@ Go text on click links to map page.
 
 # MAp page
 
-https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/amp.html
+https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/map.html
 
 Shows markers on the map to point out <b>Pub</b> locations.<br />
 
