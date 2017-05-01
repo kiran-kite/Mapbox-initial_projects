@@ -1,4 +1,4 @@
-# Detailed mapping of SVCE,bangalore campus
+# Detailed map of SVCE campus, Bangalore
 
 Complete block mapping
 
