@@ -1,6 +1,6 @@
 # MapBoxGL Project
 
-Designed using HTML platform with css and js libraries from MapBoxGL
+Designed using HTML platform with CSS and js libraries from MapBoxGL
 
 # Methods
 
@@ -8,9 +8,9 @@ Tooltips are created using L.mapbox.map('map-tooltips-js', '\<your theme>');
 
 # About the project
 
-Shows markers on the map to point out <b>Pub</b> locations.<br />
+Shows markers on the map that point to <b>Pub</b> locations.<br />
 Displays a popup on click.<br />
-Plays background music to blend in the theme.
+Plays background music, that blend with the theme.
 
 # Intro page
 
