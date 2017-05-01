@@ -31,7 +31,7 @@ Shows markers on the map to point out <b>Pub</b> locations.<br />
 
 
 Displays a popup on click.<br />
-Which describes the pub, shows rating and a link which redirects you to pub website.
+Describes the pub, displays rating and a link which redirects you to the pub website/reservation page.
 
 ![Screenshot](https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/on-pop-up.png)
 
