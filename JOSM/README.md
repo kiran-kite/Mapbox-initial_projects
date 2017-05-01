@@ -1,9 +1,11 @@
 # Detailed mapping of SVCE,bangalore campus
 
 Complete block mapping
+
 Places Mapped
--Principal Cabin
--Cafeteria
+
+-Principal Cabin_
+-Cafeteria_
 -Labs
 -library
 -Rest Rooms
