@@ -14,4 +14,7 @@ Places Mapped
 
 # JOSM Screenshot
 
+![JOSM Map](https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/JOSM/josm_map.png)
+
+
 
