@@ -21,7 +21,7 @@ Go text on click links to map page.
 ![Screenshot](https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/intro-page.png)
 
 
-# MAp page
+# Map page
 
 https://github.com/kiran-kite/Mapbox-initial_projects/blob/master/MapboxGL/map.html
 
